@@ -16,3 +16,4 @@ Working with Hyku
  * [Introduction to IR, Samvera and Hyku](https://github.com/CottageLabs/hyku_dive_in/blob/master/presentations/introduction.pdf)
  * [Getting started with Hyku](https://github.com/CottageLabs/hyku_dive_in/wiki/Getting-started-with-Hyku)
  * [Walk through the Hyku code base](https://github.com/CottageLabs/hyku_dive_in/wiki/Walk-through-Hyku-code-base)
+ * [Creating a new work type in Hyku](https://github.com/CottageLabs/hyku_dive_in/wiki/Creating-a-new-work-type-in-Hyku)
